@@ -1,0 +1,20 @@
+# Core data handling
+numpy>=1.26
+pandas>=2.1
+
+# Machine learning
+scikit-learn>=1.4
+lightgbm>=4.3
+xgboost>=2.0
+imbalanced-learn>=0.12
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebooks
+jupyterlab>=4.1
+ipykernel>=6.29
+
+# Saving models
+joblib>=1.3

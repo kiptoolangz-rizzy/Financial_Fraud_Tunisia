@@ -1,0 +1,8 @@
+# virtual environment
+zindi/
+
+# competition data and outputs
+*.csv
+
+# notebook checkpoints
+.ipynb_checkpoints/
